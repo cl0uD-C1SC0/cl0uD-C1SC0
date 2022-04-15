@@ -62,7 +62,7 @@
 * 🏅 AWS Graduate Certification :cloud: 
 * 🥇 AWS Certified Cloud Practitioner :cloud:
 # Certifications:
-* 🏅 Amazon ECS & Fargate - Udemy :x:
+* 🏅 Amazon ECS & Fargate - Udemy ✔️
 * 🏅 Amazon EKS Kubernetes - Udemy :x:
 * 🏅 AWS Advanced Networking - Udemy :x:
 * 🏅 AWS CDK Fundamentals - Udemy :x:
