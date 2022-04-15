@@ -48,7 +48,7 @@
 
 ----------
 # International Certifications:
-* AWS Cloud Practitioner - Em Breve
+* AWS Cloud Practitioner - ✔️
 * AWS Solutions Architect - Em Breve
 * Terraform Associate - Em Breve
 * CKA Kubernetes - Em Breve
@@ -60,6 +60,7 @@
 * 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 * 🏅 AWS Graduate Certification :cloud: 
+* 🥇 AWS Certified Cloud Practitioner :cloud:
 # Certifications:
 * 🏅 Amazon ECS & Fargate - Udemy :x:
 * 🏅 Amazon EKS Kubernetes - Udemy :x:
