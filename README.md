@@ -71,6 +71,7 @@
 ---------
 # Badges Oficiais:
 <a href="https://www.credly.com/badges/51dc37f2-8391-4f44-acce-643eed0e608c?source=linked_in_profile"><img src="https://images.credly.com/images/39816dce-0360-4dd0-8ef1-93faae6a3d2c/AWS-Academy-Graduate-Badge-Foundational.png" width="100"></a>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
 <a href="https://www.credly.com/badges/2c5d9191-7de2-4c84-b99c-a505a9e69990?source=linked_in_profile"><img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100"></a>
 <a href="https://www.credly.com/earner/earned/badge/e5d62799-ee64-4f0e-a42a-ee094958fa1d"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"></a>
 
