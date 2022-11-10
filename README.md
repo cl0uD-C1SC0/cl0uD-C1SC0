@@ -49,8 +49,9 @@
 ----------
 # International Certifications:
 * AWS Cloud Practitioner - ✔️
-* AWS Solutions Architect - Em Breve
-* Terraform Associate - Em Breve
+* Associate Google Cloud Engineer - ✔️
+* AWS Developer - Em Breve
+* AWS Professional DevOps - Em Breve
 * CKA Kubernetes - Em Breve
 # My achivements:
 * 🥇 Representante da Modalidade #53 Computação em Nuvem AWS - Pelo Estado de São Paulo em 2022 - Edição Xangai☁️
@@ -61,12 +62,13 @@
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 * 🏅 AWS Graduate Certification :cloud: 
 * 🥇 AWS Certified Cloud Practitioner :cloud:
+* 🥇 Google Associate Cloud Engineer :cloud:
 # Certifications:
 * 🏅 Amazon ECS & Fargate - Udemy ✔️
-* 🏅 Amazon EKS Kubernetes - Udemy :x:
-* 🏅 AWS Advanced Networking - Udemy :x:
-* 🏅 AWS CDK Fundamentals - Udemy :x:
-* 🏅 Terraform on AWS - IaC DevOps - Udemy :x:
+* 🏅 Amazon EKS Kubernetes - Udemy ✔️
+* 🏅 Terraform on AWS - IaC DevOps - Udemy ✔️
+* 🏅 Docker - Udemy ✔️
+* 🏅 Google Cloud - Udemy ✔️ 
 
 ---------
 # Badges Oficiais:
