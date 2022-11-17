@@ -45,13 +45,16 @@
 </p>
 
 ----------
-# International Certifications:
-* Professional Google Cloud Architect - ✔️
-* Associate Google Cloud Engineer - ✔️
-* AWS Cloud Practitioner - ✔️
-* AWS Developer - Em Breve
-* AWS Professional DevOps - Em Breve
-* CKA Kubernetes - Em Breve
+<div>
+<h1 align="center"> CERTIFICATIONS <h1>
+<p align="center">
+    <div align="center">
+<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="100" hspace="10"><img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"><br>
+<a href="https://www.credly.com/badges/2c5d9191-7de2-4c84-b99c-a505a9e69990?source=linked_in_profile"><img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10"></a>
+<a href="https://www.credly.com/earner/earned/badge/e5d62799-ee64-4f0e-a42a-ee094958fa1d"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"></a></div></p></div>
+
+    
 # My achivements:
 * 🥇 Representante da Modalidade #53 Computação em Nuvem AWS - Pelo Estado de São Paulo em 2022 - Edição Xangai ☁️
 * 🥇 Medalha de 🥈 na Olimpíada do Conhecimento - SENAI :closed_book:
@@ -65,19 +68,16 @@
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 
 # Certifications:
+
+* 🏅 Professional Google Cloud Architect - GCP ✔️
+* 🏅 Associate Google Cloud Engineer - GCP ✔️
+* 🏅 AWS Cloud Practitioner - AWS ✔️
 * 🏅 Amazon ECS & Fargate - Udemy ✔️
 * 🏅 Amazon EKS Kubernetes - Udemy ✔️
 * 🏅 Terraform on AWS - IaC DevOps - Udemy ✔️
 * 🏅 Docker - Udemy ✔️
 * 🏅 Google Cloud - Udemy ✔️ 
 
----------
-# Badges Oficiais:
-<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="100" hspace="10"><img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100"><br>
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"><br>
-<a href="https://www.credly.com/badges/2c5d9191-7de2-4c84-b99c-a505a9e69990?source=linked_in_profile"><img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10"></a>
-<a href="https://www.credly.com/earner/earned/badge/e5d62799-ee64-4f0e-a42a-ee094958fa1d"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"></a>
 
-<br>
 
 
