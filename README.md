@@ -50,6 +50,7 @@
 # International Certifications:
 * AWS Cloud Practitioner - ✔️
 * Associate Google Cloud Engineer - ✔️
+* Professional Google Cloud Architect - ✔️
 * AWS Developer - Em Breve
 * AWS Professional DevOps - Em Breve
 * CKA Kubernetes - Em Breve
