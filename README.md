@@ -46,24 +46,32 @@
 
 # Outros certificados:
 
-* 🏅 Professional Google Cloud Architect - GCP ✔️
-* 🏅 Associate Google Cloud Engineer - GCP ✔️
-* 🏅 AWS Cloud Practitioner - AWS ✔️
-* 🏅 Amazon ECS & Fargate - Udemy ✔️
-* 🏅 Amazon EKS Kubernetes - Udemy ✔️
-* 🏅 Terraform on AWS - IaC DevOps - Udemy ✔️
-* 🏅 Docker - Udemy ✔️
-* 🏅 Google Cloud - Udemy ✔️ 
+* 🏅 Professional Google Cloud Architect - GCP ✅
+* 🏅 Associate Google Cloud Engineer - GCP ✅
+* 🏅 AWS Cloud Practitioner - AWS ✅
+* 🏅 Amazon ECS & Fargate - Udemy ✅
+* 🏅 Amazon EKS Kubernetes - Udemy ✅
+* 🏅 Terraform on AWS - IaC DevOps - Udemy ✅
+* 🏅 Docker - Udemy ✅
+* 🏅 Google Cloud - Udemy ✅ 
 
 <br><br>
-<p align="center">
+
+<div align="center">
+<h2>ACESSE MEU CURRÍCULO</h2>
+<a href="https://drive.google.com/file/d/1cWO2HcIVS0LVh-v670bhPF-uYw9K8x-j/view?usp=share_link"><img src="https://pngimg.com/uploads/cv/cv_PNG13.png" width="80"></a>
+</div>
+
+<br><br>
+<div align="center">
+    <h2>CONTATO</h2>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/jgsiqueiraa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" hspace="0" vspace="15"></a>
+    <a href="mailto:siqueirajosesantos19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" hspace="0" vspace="15"></a>
+    </p>
+    <p align="center">
     Cloud Computing & DevOps Github <br>
     by: José Silva ☁️
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jgsiqueiraa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" hspace="0" vspace="15"></a>
-  <a href="https://t.me/JoseGabrielSSilva"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100" hspace="0" vspace="15"></a>
-  <a href="mailto:siqueirajosesantos19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" hspace="0" vspace="15"></a>
-</p>
-
+    </p>
+</div>
 
