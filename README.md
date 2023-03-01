@@ -34,7 +34,6 @@
         <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
         <img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"></a>
-
     </div>
 </div>
 <br><br>
