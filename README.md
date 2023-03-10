@@ -65,7 +65,7 @@
 
 <div align="center">
 <h2>ACESSE MEU CURRÍCULO</h2>
-<a href="https://drive.google.com/file/d/1cWO2HcIVS0LVh-v670bhPF-uYw9K8x-j/view?usp=share_link"><img src="https://pngimg.com/uploads/cv/cv_PNG13.png" width="80"></a>
+<a href="https://drive.google.com/file/d/1FiXMLFGsoRtMdQs7ziUghqcFGbQDKN20/view?usp=sharing"><img src="https://pngimg.com/uploads/cv/cv_PNG13.png" width="80"></a>
 </div>
 
 <br><br>
