@@ -42,11 +42,11 @@
         <h2>INTERNATIONAL CERTIFICATES</h2><br>
         <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="100" hspace="10">
         <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100">
-        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
         <img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100">
        <div align="center">
-          <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="150">
+          <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
        </div>
     </div>
 </div>
