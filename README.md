@@ -81,11 +81,6 @@
 
 <br><br>
 
-<div align="center">
-<h2>ACCESS MY RESUME</h2>
-<a href="https://drive.google.com/file/d/1BVoyjVcuToYgWOX-1VWa65rqnuq-11Ik/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
-</div>
-
 <br><br>
 <div align="center">
     <h2>CONTACT</h2>
