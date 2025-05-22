@@ -1,21 +1,22 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=José%20Silva%20🚀&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=180&section=header&text=José%20Silva%20🚀&fontSize=40&fontColor=ffffff" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&width=450&lines=DevOps+Engineer+%7C+Cloud+Instructor+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&background=0D1117&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+IT+Instructor;%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1%E2%8C%9A%EF%B8%8F%F0%9F%93%A1" />
 </p>
 
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" height="190" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" />
+<img align="right" height="190" src="https://i.pinimg.com/originals/35/34/68/353468fdf034fe02525a2a7b68082868.gif" />
 
-Sou Engenheiro DevOps com quase 3 anos de experiência em automação de infraestrutura, CI/CD, containers, monitoramento e boas práticas de engenharia de plataformas. Leciono disciplinas de DevOps e Computação em Nuvem no SENAI, onde formo novos profissionais para o mercado de tecnologia.
+Sou Engenheiro DevOps com quase 3 anos de experiência em automação de infraestrutura, <br>
+CI/CD, containers, monitoramento e boas práticas de engenharia de plataformas. Leciono disciplinas de DevOps e Computação em Nuvem no SENAI, onde formo novos profissionais para o mercado de tecnologia.
 
-Além disso, **o que for possível automatizar, eu automatizarei!**
+**O medo é somente uma incerteza do futuro**
 
----
+<br><br><br>
 
 ## 🛠️ Tech Stack
 
@@ -41,14 +42,14 @@ Além disso, **o que for possível automatizar, eu automatizarei!**
 
 ## 🏅 Certificações
 
-| Certificação | Provedor |
+| Certificação | Nome |
 |--------------|----------|
-| ![GCP Architect](https://img.shields.io/badge/-Professional%20Cloud%20Architect-4285F4?logo=googlecloud&logoColor=white&style=flat) | Google Cloud |
-| ![GCP ACE](https://img.shields.io/badge/-Associate%20Cloud%20Engineer-34A853?logo=googlecloud&logoColor=white&style=flat) | Google Cloud |
-| ![AWS CCP](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=flat) | AWS |
-| ![GitOps](https://img.shields.io/badge/-GitOps%20Certified-blue?logo=argo&style=flat) | CNCF |
+| ![GCP Architect](https://img.shields.io/badge/-Professional%20Cloud%20Architect-4285F4?logo=googlecloud&logoColor=white&style=flat) | Google Cloud Professional Cloud Architect |
+| ![GCP ACE](https://img.shields.io/badge/-Associate%20Cloud%20Engineer-34A853?logo=googlecloud&logoColor=white&style=flat) | Google Cloud Associate Cloud Engineer |
+| ![AWS CCP](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=flat) | AWS Cloud Practitioner |
+| ![GitOps](https://img.shields.io/badge/-GitOps%20Certified-blue?logo=argo&style=flat) | GitOps Certified |
 | ![Linux Essentials](https://img.shields.io/badge/-Linux%20Essentials-2C2255?logo=linuxfoundation&logoColor=white&style=flat) | NDG |
-| ![Cisco CCNA](https://img.shields.io/badge/-Cisco%20CCNA%20ITN-1D63ED?logo=cisco&logoColor=white&style=flat) | Cisco (Curso preparatório para o CCNA) |
+| ![Cisco CCNA](https://img.shields.io/badge/-Cisco%20CCNA%20ITN-1D63ED?logo=cisco&logoColor=white&style=flat) | Cisco NetAcademy - Introduction to Networks  |
 
 ---
 
@@ -71,6 +72,13 @@ Além disso, **o que for possível automatizar, eu automatizarei!**
 - 📰 **Ministrei cursos** sobre DevOps para empresas e jovens.
 - 📖 **Projeto: I AM** - Como ensinar o técnico para autistas com o uso de IA. (Em estudo)
 
+
+<div align="center">
+  <img align="right" height="180" width="300" src="https://i.pinimg.com/originals/e8/12/b5/e812b582a033a2115451f78f2a36b910.gif" /> 
+  <img align="left" height="185" src="https://i.pinimg.com/originals/3a/5f/69/3a5f693fb28614e7b7df081f8036fe67.gif" /> 
+  <img align="center" height="185" src="https://i.pinimg.com/originals/e2/66/13/e266138bb630631635e4733cd5a5e6f5.gif" />  
+</div>
+
 ---
 
 ## 📈 GitHub Stats
@@ -92,6 +100,8 @@ Além disso, **o que for possível automatizar, eu automatizarei!**
   </a>
 </p>
 
+<br><br>
+
 ---
 
 <h4 align="center">
@@ -102,5 +112,5 @@ Além disso, **o que for possível automatizar, eu automatizarei!**
 </h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=100&section=footer" />
 </p>
