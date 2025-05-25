@@ -11,7 +11,7 @@
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/35/34/68/353468fdf034fe02525a2a7b68082868.gif" />
 
-Sou Engenheiro DevOps com quase 3 anos de experiência em automação de infraestrutura, <br>
+Sou Engenheiro DevOps com quase 5 anos de experiência em automação de infraestrutura, <br>
 CI/CD, containers, monitoramento e boas práticas de engenharia de plataformas. Leciono disciplinas de DevOps e Computação em Nuvem no SENAI, onde formo novos profissionais para o mercado de tecnologia.
 
 **O medo é somente uma incerteza do futuro**
