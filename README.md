@@ -11,8 +11,14 @@
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/35/34/68/353468fdf034fe02525a2a7b68082868.gif" />
 
-Sou Engenheiro DevOps com quase 5 anos de experiência em automação de infraestrutura, <br>
-CI/CD, containers, monitoramento e boas práticas de engenharia de plataformas. Leciono disciplinas de DevOps e Computação em Nuvem no SENAI, onde formo novos profissionais para o mercado de tecnologia.
+Welcome aboard! 
+
+Me chamo José e sou um profissional da área de automação, conhecida como DevOps. Junto quase 4 anos de experiência prática e técnica nas vivências das metodologias que giram em torno de DevOps, tanto a parte técnica, 
+mas também ensinando! 
+
+Já fui desde um entusiasta em .NET até um Instrutor de Formação Profissional a respeito das metodologias DevOps, Cloud e Monitoramento! 
+
+OBS: Acredito fielmente que a educação transforma vidas, em breve trarei novidades **gratuitas**! 
 
 **O medo é somente uma incerteza do futuro**
 
