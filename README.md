@@ -84,7 +84,7 @@ Curiosidade sobre mim:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl0uD-C1SC0&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="170"/>
 </p>
 
 ---
