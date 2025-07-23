@@ -81,15 +81,6 @@ Curiosidade sobre mim:
 - 📰 **Ministrei cursos** sobre DevOps para empresas e jovens.
 - 📖 **Projeto: I AM** - Como ensinar o técnico para autistas com o uso de IA. (Em estudo)
 
-
-<div align="center">
-  <img align="right" height="180" width="300" src="https://i.pinimg.com/originals/e8/12/b5/e812b582a033a2115451f78f2a36b910.gif" /> 
-  <img align="left" height="185" src="https://i.pinimg.com/originals/3a/5f/69/3a5f693fb28614e7b7df081f8036fe67.gif" /> 
-  <img align="center" height="175" src="https://i.pinimg.com/originals/e2/66/13/e266138bb630631635e4733cd5a5e6f5.gif" />  
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
