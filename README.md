@@ -11,14 +11,17 @@
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/35/34/68/353468fdf034fe02525a2a7b68082868.gif" />
 
-Welcome aboard! 
+👋 Welcome aboard!
 
-Me chamo José e sou um profissional da área de automação, conhecida como DevOps. Junto quase 4 anos de experiência prática e técnica nas vivências das metodologias que giram em torno de DevOps, tanto a parte técnica, 
-mas também ensinando! 
+Me chamo José e sou apaixonado por tecnologia e automação – o que muitos chamam de DevOps. 🚀
 
-Já fui desde um entusiasta em .NET até um Instrutor de Formação Profissional a respeito das metodologias DevOps, Cloud e Monitoramento! 
+Tenho quase 4 anos de experiência prática, atuando com metodologias DevOps na vida real, não apenas na teoria. Ao longo da minha jornada, já fui de entusiasta em .NET a Instrutor de Formação Profissional, ensinando DevOps, Cloud Computing e Monitoramento para novos profissionais de TI.
 
-OBS: Acredito fielmente que a educação transforma vidas, em breve trarei novidades **gratuitas**! 
+🎓 Acredito de verdade que a educação transforma vidas.
+Por isso, em breve, trarei novidades gratuitas aqui para ajudar mais pessoas a crescerem nessa área que tanto amo.
+
+Curiosidade sobre mim: 
+[Dúvido clicar aqui!](https://www.youtube.com/watch?v=NG_LcVRFqUg&list=LL&index=541)
 
 **O medo é somente uma incerteza do futuro**
 
@@ -82,7 +85,7 @@ OBS: Acredito fielmente que a educação transforma vidas, em breve trarei novid
 <div align="center">
   <img align="right" height="180" width="300" src="https://i.pinimg.com/originals/e8/12/b5/e812b582a033a2115451f78f2a36b910.gif" /> 
   <img align="left" height="185" src="https://i.pinimg.com/originals/3a/5f/69/3a5f693fb28614e7b7df081f8036fe67.gif" /> 
-  <img align="center" height="185" src="https://i.pinimg.com/originals/e2/66/13/e266138bb630631635e4733cd5a5e6f5.gif" />  
+  <img align="center" height="175" src="https://i.pinimg.com/originals/e2/66/13/e266138bb630631635e4733cd5a5e6f5.gif" />  
 </div>
 
 ---
